@@ -1,0 +1,6 @@
+# ScrollerTest-ScrollerCompat
+这是一个简单的测试ScrollerCompat类的测试
+这个是v4的组件，用法和Scroller用法差不多。
+第一步是调用Create方法构造对象。
+第二步是在computeScroll里面实现重新布局。
+第三步是startScroll函数。
